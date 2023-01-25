@@ -6,6 +6,7 @@ console.info('[+] Create weakSet =', JSON.stringify(weakSet));
 
 weakSet.add(users[0]);
 console.info('[+] Add users[0] to weakSet');
+
 weakSet.add(users[1]);
 console.info('[+] Add users[1] to weakSet');
 
