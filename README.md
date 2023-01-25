@@ -1,8 +1,8 @@
 # test-es2015-weakset
 
-> :ledger: Testing WeakSet (reducing by Garbage Collector) from ECMAScript 2015 spec
+:ledger: Testing WeakSet (reducing by Garbage Collector) from ECMAScript 2015 spec
 
-## How it works?
+## How does it work?
 
 1. Create `users` array with simple literal objects
 
